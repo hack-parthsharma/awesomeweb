@@ -1,5 +1,5 @@
 # Awesome-web
 
-Search awesome projects, https://awesome.long2ice.io
+Search awesome projects.
 
 ![index](./screenshots/index.png)
